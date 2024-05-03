@@ -20,7 +20,7 @@
 * **[License](#licence)**
 
 ## Usage Instructions
-### Schedulig tasks
+### Scheduling tasks
 
 Scheduling a task is very easy, just declare a `TaskScheduler` and use `TaskScheduler::Schedule`.
 
@@ -85,7 +85,7 @@ void Update()
 
 ```
 
-### Reapeat Tasks
+### Repeat Tasks
 
 ```c++
 // Schedule a simple function that is executed every 10s
